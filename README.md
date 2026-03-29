@@ -1,0 +1,2 @@
+# Smart-Stock-Manager
+aaaaa
